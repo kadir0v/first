@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<html>
+<head>
+<meta http-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
 <link rel='stylesheet' href='css/css_styles.css' type='text/css'>
+<link rel='icon' href='https://sun9-44.userapi.com/impg/YDvh8Q1RRizp3paPWzj04wuOmGVXu4ATbOY9Ow/UlgK5eb2H8Q.jpg?size=1620x2160&quality=96&sign=1df7fe4207fed4163c0a35c7c18562d2&type=album'>
 <TITLE>Пошагово с нуля до джуниора</TITLE>
 </HEAD>
 <BODY>
