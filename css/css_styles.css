@@ -1,0 +1,45 @@
+code { background-color: #000000;
+	color: #40E0D0;
+	font-size: 16px} /* делает теги code html на чёрном фоне шрифтом голубого цвета */
+
+code em { color: #F0E68C;
+	 font-style: bold } /* делает русский текст в теге code жёлтого цвета */
+	 
+code.css { background-color: #000000;
+	color: #ef60fcf2 }
+
+p.example_4_letter_spacing { letter-spacing: 5px } 
+
+code.comp {background-color: #FFD700;
+	color: #696969} /* делает фон названий папок жёлтого цвета */ 
+
+code.files {background-color: #A9A9A9;
+	color: #000000 } /* делает фон названий файлов серого цвета */
+	
+body { color: #3B4043; 
+	background-color: #fff5fd; 
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px }
+	
+p {font-style: "Arial";
+	text-indent: 40px;
+	font-size: 15px }
+
+h1, h2, h3, h4, h5, h6 {font-style: "Verdana";
+	text-align: center } /* делает заголовки по центру */
+
+address { font-style: italic;
+	font-size: 12px;
+ 	text-align: center } 
+	
+blockquote p { font-style: italic;
+	font-size: 22px }
+	
+table { font-style: serif;
+	text-align: center;
+	font-size: 16px; }
+	
+
+	
+
+	

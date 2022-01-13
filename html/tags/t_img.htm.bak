@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<TITLE>Тег IMG</TITLE>
+</HEAD>
+<BODY>
+<H1>Тег IMG</H1>
+<P>Тег IMG служит для вставки на Web-страницу графического изображения.</P>
+<H6>Пример:</H6>
+<PRE>&lt;P&gt;&lt;IMG SRC=&quot;image.gif&quot;&gt;&lt;/P&gt;</PRE>
+<H6>Результат:</H6>
+<P><IMG SRC="https://sun9-44.userapi.com/impg/YDvh8Q1RRizp3paPWzj04wuOmGVXu4ATbOY9Ow/UlgK5eb2H8Q.jpg?size=1620x2160&quality=96&sign=1df7fe4207fed4163c0a35c7c18562d2&type=album"
+width='190'></P>
+</BODY>
+</HTML>
